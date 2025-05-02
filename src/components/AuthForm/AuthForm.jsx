@@ -9,8 +9,8 @@ const AuthForm = () => {
       <Box border={'1px solid gray'} borderRadius={4} padding={5}>
         <VStack spacing={4}>
           <Image
-            src="/logo.png"
-            h={24}
+            src="/instagramlogo.png"
+            h={48}
             cursor={'pointer'}
             alt="Instagram Logo"
           />
